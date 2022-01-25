@@ -1,0 +1,80 @@
+.login{
+    margin-left: 4%;
+}
+@media(max-width: 767px){
+    .login{
+        margin-left: 0%;
+    }
+}
+/* PRIMER CONTAINER */
+
+.imagen {
+    position: absolute;
+    margin: 0px;
+    
+}
+.azul{
+    margin-top: 2rem;
+    
+    background-color: rgb(40, 40, 236);
+    height: 10rem;
+    width: 16rem;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 40%;
+    
+}
+/* TERCER CONTAINER  */
+.cilindro{
+    /* background-color: brown; */
+    position: relative;
+}
+.imagenTab1{
+    margin-left: 5rem;
+    position: absolute;
+}
+.imagenTab2{
+    margin-left: 5rem;
+    position: absolute;
+}
+.imagenTab3{
+    margin-left: 6rem;
+    position: absolute;
+}
+
+.azul2{
+    margin-top: 1.8rem;
+    background-color: rgb(40, 40, 236);
+    height: 10rem;
+    width: 17rem;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.azul3{
+    margin-top: 1.8rem;
+    background-color: rgb(40, 40, 236);
+    height: 12rem;
+    width: 18rem;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+/* FOOTER  */
+.fondoFooter{
+    background-color: rgb(10, 1, 48);
+}
+.already{
+    margin-left: 30px;
+}
+.btnFooter{
+    margin-right: 113px;
+}
+@media(max-width:425px){
+    .already{
+        margin-left: 0px;
+    }
+}
+@media(max-width: 1024px){
+    .btnFooter{
+        margin-right: 0px;
+    }
+}
+
